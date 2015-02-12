@@ -50,7 +50,7 @@
 
 Time::Time()
 {
-	this->year = 2010;
+	this->year = 2013;
 	this->mon  = 1;
 	this->date = 1;
 	this->hour = 0;
